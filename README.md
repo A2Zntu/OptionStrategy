@@ -1,6 +1,9 @@
 # OptionStrategy
  
-## Description
+Member
+--------------
+I-Fan Chiang
+
 
 Install
 --------------
@@ -9,7 +12,7 @@ Install
     $ pip install py_vollib      
     ```
 
-Motivation
+Description
 -------------- 
 * To Plot the implied volatility curve. (Implied_Volatility.ipynb)
 * To build the option strategies with max payoff and breakeven points. (Option_Greeks.ipynb)
