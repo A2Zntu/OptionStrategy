@@ -35,6 +35,7 @@ opt_strat1 = Options_strategy(df_options_strangle)
 greeks_strat1 = opt_strat1.get_greeks()
 opt_strat1.describe_portfolio()
 ```
+ ![alt text](https://github.com/A2Zntu/OptionStrategy/blob/master/Graph/Greeks_example.PNG "Greek letters")
 
 ```python
 print("max Payoff: " , opt_strat1.get_maxPayoff())
