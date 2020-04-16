@@ -51,7 +51,7 @@ Implies that, people might be more positive toward the market.
 
 If we expect the market would be bull tomorrow, we could construct a bull spread. 
 In this example, we could buy a Call@11300 and Sell a Call@11400. 
-https://github.com/A2Zntu/OptionStrategy/blob/master/Graph/Bull%20Spread.png
+![alt text](https://github.com/A2Zntu/OptionStrategy/blob/master/Graph/Bull%20Spread.png "Bull Spread")
 
 Improvement
 -------------- 
