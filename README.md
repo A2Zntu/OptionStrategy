@@ -54,6 +54,10 @@ In this example, we could buy a Call@11300 and Sell a Call@11400.
 
 ![alt text](https://github.com/A2Zntu/OptionStrategy/blob/master/Graph/Bull%20Spread.png "Bull Spread")
 
+And if we offset tomorrow, we would gain 8 points. 
+
+
+
 Improvement
 -------------- 
 * The Delta-Netural and Gamma Netrual Strategies are selected subjectively. 
