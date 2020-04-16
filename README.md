@@ -49,6 +49,10 @@ From the below graph, we could tell that the Call-Put Implied Volatility Spread(
 Implies that, people might be more positive toward the market. 
 ![alt text](https://github.com/A2Zntu/OptionStrategy/blob/master/Graph/CPIV%20Spread_0130.png "CPIV 0130")
 
+If we expect the market would be bull tomorrow, we could construct a bull spread. 
+In this example, we could buy a Call@11300 and Sell a Call@11400. 
+https://github.com/A2Zntu/OptionStrategy/blob/master/Graph/Bull%20Spread.png
+
 Improvement
 -------------- 
 * The Delta-Netural and Gamma Netrual Strategies are selected subjectively. 
