@@ -18,7 +18,6 @@ Description
 * To build the option strategies with max payoff and breakeven points. (Option_Greeks.ipynb)
 * To Calculate the greek letters of these strategies and plot the payoff. (Option_Greeks.ipynb)
 
-
 Usage
 -------------- 
 ```python
@@ -43,7 +42,12 @@ opt_strat1.portfolio_payoff(fileName = "Short Strangle")
 ```
  ![alt text](https://github.com/A2Zntu/OptionStrategy/blob/master/Graph/Short%20Strangle.png "Short Strangle")
 
+Compliment
+-------------- 
 
+From the below graph, we could tell that the Call-Put Implied Volatility Spread(CPIV) is almost Positive. 
+Implies that, people might be more positive toward the market. 
+![alt text](https://github.com/A2Zntu/OptionStrategy/blob/master/Graph/CPIV%20Spread_0130.png "CPIV 0130")
 
 Improvement
 -------------- 
